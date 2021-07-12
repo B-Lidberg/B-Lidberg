@@ -1,4 +1,4 @@
-## Hey, You!
+## Hey!
 *Here's a bit about me*
 
 I have been self-studying my way as a developer since coming back to to the United States in December after nearly 2 years abroad with some time spent in *Thailand* & the rest in *New Zealand*! :earth_asia:
