@@ -14,12 +14,14 @@ My favorite types of projects to work on involve apps used for Productivity or E
 ---
 
 ### What I'm focusing on
- I picked up and am currently improving my skills with  **KMM Potential technologies*** such as :
- - **Jetpack Compose** being my primary tool for developing Android on the Front-End 
- - **Ktor** as the server of choice for back-end
+ I picked up and am currently improving my skills with  **Modern Android technologies** with **KMM** in mind such as:
+ - **Kotlin & Jetpack Libraries**
+   - **Jetpack Compose** being my primary tool for developing Android on the Front-End
 
 
  *[Daily Doc](https://github.com/B-Lidberg/DailyDoc)* has been a personal project that I take pride in as I continue to add functionality and soon implement a professional-looking UI Design. It features many NEW tools that I hope others will be able to use as an example as they learn and build apps utilizing these same libraries.
+ 
+ *[ChatApp](https://github.com/B-Lidberg/ChatApp)* is another project that is being prioritized as it features both being a News App handling REST as well as websockets for a real-time chatting experience. This project is focuses on asynchronous network/database calls to dive deeper into Network handling & Coroutines
  
 ---
 
