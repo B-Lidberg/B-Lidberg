@@ -3,7 +3,7 @@
 
 I have been self-studying my way as a developer since coming back to to the United States in December after nearly 2 years abroad with some time spent in *Thailand* & the rest in *New Zealand*! :earth_asia:
 
-After completing MOOC **Java** courses, I stepped into learning **Kotlin** as my passion towards becoming an **Android Developer** grew. Being involved in the Android Community in places such as Twitter, Reddit, & numerous Kotlin Slack Channels has been an exciting experience. I love contributing to the community in ways that I can, such as creating open-source project(s) or helping answer questions where possible 
+After completing MOOC **Java** courses, I stepped into learning **Kotlin** as my passion towards becoming an **Android Developer** grew. Being involved in the Android Community in places such as Twitter, Reddit, & numerous Kotlin Slack Channels has been an exciting experience. I love contributing to the community in ways that I can, such as creating open-source project(s) or helping answer questions where possible . *(Look forward to seeing a blog from me later this year!)*
 
 My favorite types of projects to work on involve apps used for Productivity or Educational purposes! :smile:
 
