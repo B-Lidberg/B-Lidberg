@@ -7,16 +7,13 @@ After completing MOOC **Java** courses, I stepped into learning **Kotlin** as my
 
 My favorite types of projects to work on involve apps used for Productivity or Educational purposes! :smile:
 
-##### I am actively seeking an opportunity to fill my first Android Developer role. Being an ideal candidate if you're interested in or are currently developing using Jetpack Compose or towards *KMP/KMM*.
--  I am open to learning new technologies
--  Willing to relocate / work remote
-
 ---
 
 ### What I'm focusing on
- I picked up and am currently improving my skills with  **Modern Android technologies** with **KMM** in mind such as:
+ I picked up and am currently improving my skills with  **Modern Android and Google technologies** such as:
  - **Kotlin & Jetpack Libraries**
-   - **Jetpack Compose** being my primary tool for developing Android on the Front-End
+   - **Jetpack Compose**
+   - **Flutter**
 
 
  *[Daily Doc](https://github.com/B-Lidberg/DailyDoc)* has been a personal project that I take pride in as I continue to add functionality and soon implement a professional-looking UI Design. It features many NEW tools that I hope others will be able to use as an example as they learn and build apps utilizing these same libraries.
